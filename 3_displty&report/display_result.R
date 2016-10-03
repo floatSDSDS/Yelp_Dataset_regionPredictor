@@ -1,0 +1,1 @@
+image(as.matrix(result),col=topo.colors(2))
